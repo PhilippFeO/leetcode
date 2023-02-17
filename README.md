@@ -1,1 +1,1 @@
-Some random solutions of challenges on [leetcode.com](https://leetcode.com/).
+Some solutions of random challenges on [leetcode.com](https://leetcode.com/).
